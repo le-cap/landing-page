@@ -1,0 +1,20 @@
+{
+    "name": "Modèle de site web statique Vuepress",
+    "short_name": "Templ. site Vuepress",
+    "description": "Un modèle de site web et blog statique utilisant Vuepress et le magnifique thème de Mr Hope avec tout ce qu'il vous faut",
+    "icons": [{
+        "src": "/icons/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any maskable"
+    }, {
+        "src": "/icons/android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+    }],
+    "start_url": "https://passonslecap.netlify.app/fr/",
+    "display": "fullscreen",
+    "theme_color": "#591437",
+    "background_color": "#591437"
+}
