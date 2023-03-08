@@ -185,3 +185,32 @@ iframe.newsletter-embed html {
 .participate article {
   margin-bottom: 1em;
 }
+
+.cap.palette {
+  display: flex;
+  flex-direction: row;
+  justify-items: center;
+  border: 1px solid black;
+}
+
+.cap.palette .color {
+  text-align: center;
+  flex: 2;
+  height: 12em;
+  width: 5em;
+}
+
+.cap.palette .color-1 {
+  background-color: #fdfdfd;
+}
+.cap.palette .color-2 {
+  background-color: #591437;
+  color: var(--white);
+}
+.cap.palette .color-3 {
+  background-color: #fc2e56;
+}
+.cap.palette .color-4 {
+  
+  background-color: #efa846;
+}
