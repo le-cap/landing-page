@@ -1,4 +1,5 @@
 ---
+containerClass: custom-page
 title: Mentions légales
 description: Cette page contient les mentions légales du site
 #date:
@@ -7,7 +8,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://passonslecap.madebyjeremie.fr/fr/page/mentions-legales/,
+        href: https://passonslecap.madebyjeremie.fr/page/mentions-legales/,
       },
     ]
 article: false

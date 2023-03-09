@@ -1,4 +1,5 @@
 ---
+containerClass: custom-page
 title: '[[about-page-title-fr]]'
 description: '[[about-page-description-fr]]'
 #date:

@@ -7,7 +7,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://passonslecap.madebyjeremie.fr/page/thank-you/,
+        href: https://passonslecap.madebyjeremie./page/thank-you/,
       },
     ]
 article: false

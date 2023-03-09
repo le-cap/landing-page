@@ -101,6 +101,11 @@ img {
     overflow-y: scroll;
 }
 
+.custom-page .page-info,
+.custom-page .page-meta {
+  display: none;
+}
+
 iframe.contact-form {
   height: 50em;
 }

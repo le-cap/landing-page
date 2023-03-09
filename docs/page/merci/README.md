@@ -1,4 +1,5 @@
 ---
+containerClass: custom-page
 title: '[[thank-you-page-title-fr]]'
 description: '[[thank-you-page-description-fr]]'
 #date:
@@ -7,7 +8,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://passonslecap.madebyjeremie.fr/fr/page/merci/,
+        href: https://passonslecap.madebyjeremie.fr/page/merci/,
       },
     ]
 article: false

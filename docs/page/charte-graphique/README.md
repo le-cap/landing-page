@@ -7,7 +7,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://passonslecap.madebyjeremie.fr/page/charte-graphique,
+        href: https://passonslecap.madebyjeremie./page/charte-graphique,
       },
     ]
 ---

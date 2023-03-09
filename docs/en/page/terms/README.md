@@ -3,11 +3,11 @@ title: Terms and Conditions
 description: This is the terms and conditions page
 #date:
 #head:
-#  - [meta, { rel: canonical, href: https://passonslecap.madebyjeremie.fr/page/terms/ }]
+#  - [meta, { rel: canonical, href: https://passonslecap.madebyjeremie./page/terms/ }]
 article: false
 ---
 
-<i>Vous êtes français ? <a href="../../fr/page/mentions-legales/" title="Lire les mentions légales du site">Les mentions légales se trouvent ici !</a></i>
+<i>Vous êtes français ? <a href="../../page/mentions-legales/" title="Lire les mentions légales du site">Les mentions légales se trouvent ici !</a></i>
 
 <h2><strong>Welcome to [[Website title]]!</strong></h2>
 

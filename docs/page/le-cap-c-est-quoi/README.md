@@ -8,7 +8,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://passonslecap.madebyjeremie.fr/page/le-cap-c-est-quoi/,
+        href: https://passonslecap.madebyjeremie./page/le-cap-c-est-quoi/,
       },
     ]
 article: false
@@ -16,23 +16,35 @@ article: false
 
 <!-- image -->
 
-![Logo du C.A.P](/images/logo.png)
+![Plante dans le creux d'une main](/images/plante-dans-le-creux-d-une-main.jpg)
 
 <!-- short description -->
 
-Pour faire des économies d’énergie conséquentes dès aujourd'hui sans se ruiner, les trois étapes à suivre sont les suivantes :
+Pour faire des économies d’énergie conséquentes dès aujourd'hui sans se ruiner, les trois étapes à suivre sont les suivantes.
 
 ## Comprendre
+
+Avant même d'envisager des travaux de rénovation ou d'une installation solaire, aussi bien photovoltaïque ou thermique, il faut _Comprendre_ ce que vous consommez tout le long de l'année. Dans cette étape, nous regardons ensemble comment mesurer la consommation de vos appareils ou comment estimer une consommation si la mesure n'est pas possible. On utilisera un petit appareil nommé Wattmètre ou enregistreur de la consommation d'énergie.
 
 Avant même d'envisager des travaux de rénovation ou d'une installation solaire, aussi bien photovoltaïque ou thermique, il faut _Comprendre_ ce que vous consommez tout le long de l'année.
 
 ## Agir
 
-Ensuite, nous utiliserons les données de l'étape précédente pour choisir les petits investissements : changer les ampoules en LED, arrêter les appareils en veille, etc. En clair, on choisit notre sobriété plutôt qu'on nous l'impose.
+On passe à _l'action_ !
+
+Mais toujours pas de gros travaux ou d'installation solaire... Et aussi, pour être sûr de réussir, il faut y aller doucement, avec des étapes simples à mettre en oeuvre.
+
+Ensemble, nous utiliserons les données de l'étape précédente pour choisir les petits investissements : changer les ampoules en LED, arrêter les appareils en veille, etc.
+
+En clair, on choisit notre sobriété plutôt qu'on nous l'impose.
 
 ## Produire
 
-Enfin, on va pouvoir passer la _production d'énergie_ selon votre consommation déjà bien optimisée. Avec moins 600 euros, on peut démarrer la production photovoltaïque et produire jusqu'à 500kWh par an ou 100 euros par an.
+Ah, enfin ! On va pouvoir passer la _production d'énergie_ selon votre consommation déjà bien optimisée.
+
+Du coup, nous allons voir, qu'avec les étapes précédentes, le coût d'une installation solaire, photovoltaïque par exemple, ne sera pas aussi importante que vous le croyez.
+
+Avec moins 600 euros, on peut démarrer la production photovoltaïque et produire jusqu'à 500kWh par an ou 100 euros par an.
 
 <!-- call to action : sign up to waitlist -->
 

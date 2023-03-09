@@ -30,7 +30,7 @@ export default hopeTheme({
   },
   displayFooter: true,
   footer:
-    'GPLv3 Licensed | <a href="https://passonslecap.madebyjeremie.fr/page/mentions-legales" title="Lire les mentions légales du site web">Mentions légales</a>',
+    'GPLv3 Licensed | <a href="https://passonslecap.madebyjeremie./page/mentions-legales" title="Lire les mentions légales du site web">Mentions légales</a>',
   plugins: {
     blog: true,
     // comment: {
