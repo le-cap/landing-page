@@ -18,13 +18,13 @@ actions:
     type: primary
 features:
   - title: 'Comprendre'
-    details: Avant même d'envisager des travaux de rénovation ou d'une installation solaire, aussi bien photovoltaïque ou thermique, il faut <i>Comprendre</i> ce que vous consommez tout le long de l'année. Dans cette étape, nous regardons ensemble comment mesurer la consommation de vos appareils ou comment estimer une consommation si la mesure n'est pas possible. On utilisera un petit appareil nommé Wattmètre ou enregistreur de la consommation d'énergie.
+    details: Avant même d'envisager des travaux de rénovation ou d'une installation solaire, aussi bien photovoltaïque ou thermique, il faut <i>Comprendre</i> ce que vous consommez tout le long de l'année.
 
   - title: 'Agir'
-    details: "On passe à <i>l'action</i> ! Mais toujours pas de gros travaux ou d'installation solaire... Et aussi, pour être sûr de réussir, il faut y aller doucement. Ensemble, nous utiliserons les données de l'étape précédente pour choisir les petits investissements : changer les ampoules en LED, arrêter les appareils en veille, etc. En clair, on choisit notre sobriété plutôt qu'on nous l'impose."
+    details: "Ensuite, nous utiliserons les données de l'étape précédente pour <i>choisir les petits investissements</i> : changer les ampoules en LED, arrêter les appareils en veille, etc."
 
   - title: 'Produire'
-    details: "Ah, enfin ! On va pouvoir passer la <i>production d'énergie</i> selon votre consommation déjà bien optimisée. Du coup, nous allons voir, qu'avec les étapes précédentes, le coût d'une installation solaire, photovoltaïque par exemple, ne sera pas aussi importante que vous le croyez. Avec moins 600 euros, on peut démarrer la production photovoltaïque et produire jusqu'à 500kWh par an ou 100 euros par an."
+    details: "Enfin, on va pouvoir passer la <i>production d'énergie</i> selon votre consommation déjà bien optimisée. Avec moins 600 euros, on peut démarrer la production photovoltaïque et produire jusqu'à 500kWh par an ou 100 euros par an."
 
 footer: 'Licence GPLv3 | <a href="/fr/page/terms/" title="Mentions légales">Mentions légales</a>'
 ---
