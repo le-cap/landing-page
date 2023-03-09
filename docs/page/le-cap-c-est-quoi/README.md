@@ -8,7 +8,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://passonslecap.netlify.app/page/le-cap-c-est-quoi/,
+        href: https://passonslecap.madebyjeremie.fr/page/le-cap-c-est-quoi/,
       },
     ]
 article: false

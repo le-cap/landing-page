@@ -8,7 +8,7 @@ description: '[[home-page-description]]'
 heroImage: /icons/android-chrome-512x512.png
 tagline: '[[tag-line]]'
 head:
-  - [meta, { rel: canonical, href: https://passonslecap.netlify.app/ }]
+  - [meta, { rel: canonical, href: https://passonslecap.madebyjeremie.fr/ }]
 actions:
   - text: '[[secondary-some-action-1]]'
     link: '#'

@@ -6,16 +6,16 @@ import { /*enNavBarConfig,*/ frNavBarConfig } from './configs/navbar';
 
 export default hopeTheme({
   //path.resolve(__dirname, './theme'),
-  hostname: 'https://passonslecap.netlify.app',
+  hostname: 'https://passonslecap.madebyjeremie.fr',
   author: {
     name: 'Jeremie Litzler',
-    url: 'https://passonslecap.netlify.app',
+    url: 'https://passonslecap.madebyjeremie.fr',
   },
-  repo: 'le-cap/landing-page',
-  docsRepo: 'https://github.com/le-cap/landing-page',
-  docsBranch: 'main',
+  // repo: 'le-cap/landing-page',
+  // docsRepo: 'https://github.com/le-cap/landing-page',
+  // docsBranch: 'main',
   docsDir: 'docs',
-  editLinkPattern: ':repo/edit/:branch/:path',
+  // editLinkPattern: ':repo/edit/:branch/:path',
   logo: '/icons/favicon-32x32.png',
   logoDark: '/icons/dark-favicon-32x32.png',
   locales: {
@@ -30,7 +30,7 @@ export default hopeTheme({
   },
   displayFooter: true,
   footer:
-    'GPLv3 Licensed | <a href="https://passonslecap.netlify.app/page/mentions-legales" title="Lire les mentions légales du site web">Mentions légales</a>',
+    'GPLv3 Licensed | <a href="https://passonslecap.madebyjeremie.fr/page/mentions-legales" title="Lire les mentions légales du site web">Mentions légales</a>',
   plugins: {
     blog: true,
     // comment: {

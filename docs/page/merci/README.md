@@ -5,7 +5,10 @@ description: '[[thank-you-page-description-fr]]'
 head:
   - [
       meta,
-      { rel: canonical, href: https://passonslecap.netlify.app/fr/page/merci/ },
+      {
+        rel: canonical,
+        href: https://passonslecap.madebyjeremie.fr/fr/page/merci/,
+      },
     ]
 article: false
 ---

@@ -13,7 +13,7 @@
         "type": "image/png",
         "purpose": "any maskable"
     }],
-    "start_url": "https://passonslecap.netlify.app/",
+    "start_url": "https://passonslecap.madebyjeremie.fr/",
     "display": "fullscreen",
     "theme_color": "#591437",
     "background_color": "#591437"

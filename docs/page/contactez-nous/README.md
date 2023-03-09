@@ -7,7 +7,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://passonslecap.netlify.app/fr/page/contactez-nous/,
+        href: https://passonslecap.madebyjeremie.fr/fr/page/contactez-nous/,
       },
     ]
 article: false

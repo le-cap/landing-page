@@ -12,7 +12,7 @@ export default defineUserConfig({
   lang: 'fr-Fr',
   locales: {
     '/': frHeadConfig,
-    '/en/': enHeadConfig,
+    // '/en/': enHeadConfig,
   },
   theme,
   shouldPrefetch: false,

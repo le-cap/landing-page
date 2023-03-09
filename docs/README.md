@@ -8,7 +8,7 @@ description: '[[home-page-description_fr]]'
 heroImage: /icons/android-chrome-512x512.png
 tagline: "3 étapes simples pour réduire vos factures d'énergie. Dès aujourd'hui"
 head:
-  - [meta, { rel: canonical, href: https://passonslecap.netlify.app/ }]
+  - [meta, { rel: canonical, href: https://passonslecap.madebyjeremie.fr/ }]
 actions:
   - text: 'Qui suis-je'
     link: 'page/a-propos/'
