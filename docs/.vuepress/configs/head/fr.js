@@ -4,7 +4,7 @@ const websiteDomain = 'passonslecap.madebyjeremie.fr';
 const titleDefault = 'Passons le C.A.P';
 const descriptionDefault =
   "Diminuer vos factures d'énergie ne demande pas un gros investissement, contrairement à ce que certaines entreprises vous vendent réellement. Avec un petit investissement progressif et la bonne connaissance du sujet, vous économiserez dès aujourd'hui. Rejoignez-nous dans cette aventure";
-const themeColor = '#591437';
+const themeColor = '#FFD500';
 const repoLink = 'https://github.com/le-cap/landing-page';
 
 export const frHeadConfig = {

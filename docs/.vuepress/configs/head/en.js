@@ -3,7 +3,7 @@ const titleDefault =
   'Learn, Act, Produce: 3 steps to reduce your energy bills.';
 const descriptionDefault =
   "Reducing your energy bills doesn't require a big investment, as some companies market it. With little investment and the proper knowledge, you can save today. Join us on this journey";
-const themeColor = '#591437';
+const themeColor = '#FFD500';
 const repoLink = 'https://github.com/le-cap/landing-page';
 export const enHeadConfig = {
   title: titleDefault,

@@ -14,9 +14,9 @@ head:
 
 <!-- markdownlint-disable MD033 -->
 <section class="cap palette">
-<article class="color color-1">#fdfdfd</article>
-<article class="color color-2">#591437</article>
-<article class="color color-3">#fc2e56</article>
-<article class="color color-4">#efa846</article>
+<article class="color color-1">#DBEDFF</article>
+<article class="color color-2">#2f3968</article>
+<article class="color color-3">#8CC825</article>
+<article class="color color-4">#FFD500</article>
 </section>
 <!-- markdownlint-enable MD033 -->
