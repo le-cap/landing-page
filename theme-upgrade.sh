@@ -6,4 +6,4 @@ git checkout main && git pull && git checkout -b upgradeToVuePressTheme$1
 yarn upgrade vuepress-theme-hope@2.0.0-beta.$1
 npm run docs:build
 npm run docs:dev
-git ac "bump theme to $1" && git push
+git bv && git ac "bump theme to $1" && git push --set-upstream origin upgradeToVuePressTheme$1
