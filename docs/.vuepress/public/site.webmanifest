@@ -1,7 +1,7 @@
 {
-    "name": "Demo of static Vuepress website",
-    "short_name": "Templ. Vuepress website",
-    "description": "A template Vuepress blog using Mr Hope very feature-rich theme",
+    "name": "Passons le C.A.P !",
+    "short_name": "C.A.P",
+    "description": "Passons le C.A.P : 3 étapes simples pour réduire ses factures d'énergie.",
     "icons": [{
         "src": "/icons/android-chrome-192x192.png",
         "sizes": "192x192",
