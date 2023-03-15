@@ -69,9 +69,15 @@ img {
 }
 /* LAYOUT */
 @media (max-width: 50em) {
-  // figure {
-  //   margin: 0;
-  // }  
+.hero-info-wrapper img {
+  max-height: 8em;
+}
+.hero-info-wrapper h1 {
+  font-size: 2.4rem;
+}
+.hero-info-wrapper .description {
+  font-size: 1.4rem;
+}
 }
 // .home-page {
 //     background: url("/images/wallpaper.webp") center/cover no-repeat;
@@ -114,6 +120,10 @@ iframe.contact-form {
     justify-content: center;
 }
 
+.newsletter-wrapper-slim iframe.newsletter-embed {
+  height: 8em;
+}
+
 iframe.newsletter-embed {
     width: 100%;
     height: 16em;
@@ -135,6 +145,15 @@ iframe.newsletter-embed html {
     padding-right: 0;
 }
 
+.theme-container.no-toc.no-sidebar.has-toc .page {
+  -webkit-padding-end: initial;
+  padding-inline-end: initial;
+}
+
+.no-toc #toc {
+  display: none;
+}
+ 
 .image-cropped-wrapper {
   overflow: hidden;
 }
@@ -218,4 +237,15 @@ iframe.newsletter-embed html {
 .cap.palette .color-4 {
   
   background-color: #efa846;
+}
+
+.landing-page header .navbar-center,
+.landing-page .breadcrumb,
+.landing-page .page-info {
+  display: none;
+}
+
+.landing-page .toggle-navbar-button .button-container {
+  display: none;
+
 }
