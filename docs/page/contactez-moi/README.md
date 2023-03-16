@@ -1,20 +1,20 @@
 ---
 containerClass: custom-page
-title: 'Contactez-nous'
-description: 'Si vous hésitez à faire le pas ou que vous souhaitez discuter de votre besoin, contactez-nous.'
+title: 'Contactez-moi'
+description: 'Si vous hésitez à faire le pas ou que vous souhaitez discuter de votre besoin, contactez-moi.'
 #date:
 head:
   - [
       meta,
       {
         rel: canonical,
-        href: https://passonslecap.madebyjeremie.fr/page/contactez-nous/,
+        href: https://passonslecap.madebyjeremie.fr/page/contactez-moi/,
       },
     ]
 article: false
 ---
 
-## Si vous hésitez à faire le pas ou que vous souhaitez discuter de votre besoin, contactez-nous.
+## Si vous hésitez à faire le pas ou que vous souhaitez discuter de votre besoin, contactez-moi.
 
 <!-- markdownlint-disable MD033 -->
 

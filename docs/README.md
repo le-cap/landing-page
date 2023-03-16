@@ -10,17 +10,17 @@ title: "Le C.A.P, c'est quoi concrètement"
 description: "Diminuer vos factures d'énergie ne demande pas un gros investissement, contrairement à ce que certaines entreprises vous vendent réellement. Avec un petit investissement progressif et la bonne connaissance du sujet, vous économiserez dès aujourd'hui. Rejoignez-nous dans cette aventure"
 actions:
   - text: 'Abonnez-vous'
-    link: '#convaincu-ou-juste-curieux-den-savoir-plus--abonnez-vous'
-    type: secondary
+    link: '#pret-pour-la-suite'
+    type: primary
   - text: 'Le C.A.P en détails'
     link: '#comprendre'
-    type: primary
+    type: secondary
 head:
   - [
       meta,
       {
         rel: canonical,
-        href: https://passonslecap.madebyjeremie./page/le-cap-c-est-quoi/,
+        href: https://passonslecap.substack.com/p/le-cap-cest-quoi-exactement,
       },
     ]
 article: false
@@ -58,11 +58,13 @@ Avec moins de 600 euros, on peut démarrer la production photovoltaïque et prod
 
 <!-- call to action : sign up to waitlist -->
 
-## Convaincu ou juste curieux d’en savoir plus ? Abonnez-vous :)
+## Prêt pour la suite ?
 
-Sans obligations d’achats, le bulletin d’informations est gratuit[^services-premium].
+Sans obligations d’achats, le bulletin d’informations est gratuit[^services-premium] et vous permettra de suivre les étapes du C.A.P par vous-mêmes.
 
-Pour recevoir des astuces une fois par mois, commencez par souscrire au bulletin d’informations et je vous enverrai cela.
+Pour recevoir des astuces une fois par mois, commencez par vous abonner et je vous enverrai cela.
+
+En cadeau de bienvenue, vous recevrez le premier élément pour démarrer le parcours du C.A.P.
 
 :::center
 ⏬⏬⏬
@@ -88,4 +90,4 @@ Pour recevoir des astuces une fois par mois, commencez par souscrire au bulletin
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper newsletter-wrapper-slim"><iframe class="newsletter-embed" src="https://passonslecap.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
-[^services-premium]: en tant qu’en autoentrepreneur, je partage gratuitement mes expériences. Je n’utilise pas de publicité et je compte le bouche-à-oreille pour faire connaitre mon activité. Si vous avez un besoin d’accompagnement spécifique, je serai ravi de proposer mes services et compétences pour vous aider. [Contactez-moi directement](page/contactez-nous/README.md).
+[^services-premium]: En tant qu’en autoentrepreneur, je partage gratuitement mes expériences. Je n’utilise pas de publicité et je compte le bouche-à-oreille pour faire connaitre mon activité. Si vous avez un besoin d’accompagnement, je serai ravi de proposer mes services et compétences pour vous aider à travers les 3 étapes du C.A.P. [Contactez-moi directement](page/contactez-moi/README.md) 📝.

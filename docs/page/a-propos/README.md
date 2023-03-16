@@ -22,7 +22,7 @@ Je suis ingénieur informatique dans le développement logiciel depuis 2009 et c
 
 J'ai réalisé en 2022, après 8 ans de réflexion et de recherches, mon installation photovoltaïque pour 2000 euros de matériels et services avec un artisan local.
 
-Après bientôt un an d'utilisation du système, j'ai encore beaucoup appris et je souhaite partagé mon parcours sur [la méthode C.A.P](../le-cap-c-est-quoi/README.md).
+Après bientôt un an d'utilisation du système, j'ai encore beaucoup appris et je souhaite partagé mon parcours sur [la méthode C.A.P](../../README.md).
 
 Si vous souhaitez lire mon parcours dans la quête de réduire ma facture d'électricité, je vous invite à lire :
 

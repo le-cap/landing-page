@@ -8,13 +8,19 @@ heroText: 'En 3 étapes simples'
 heroImage: /icons/android-chrome-512x512.png
 tagline: "Réduisez vos factures d'énergie. Dès aujourd'hui !"
 head:
-  - [meta, { rel: canonical, href: https://passonslecap.madebyjeremie.fr/ }]
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://passonslecap.madebyjeremie.fr/page/accueil/,
+      },
+    ]
 actions:
   - text: 'Votre instructeur'
     link: 'page/a-propos/'
     type: secondary
   - text: 'Le C.A.P en détails'
-    link: 'page/le-cap-c-est-quoi/'
+    link: '/'
     type: primary
 features:
   - title: 'Comprendre'

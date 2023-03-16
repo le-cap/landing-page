@@ -30,7 +30,7 @@ export default hopeTheme({
   },
   displayFooter: true,
   footer:
-    'GPLv3 Licensed | <a href="https://passonslecap.madebyjeremie/page/mentions-legales" title="Lire les mentions légales du site web">Mentions légales</a>',
+    'GPLv3 Licensed | <a href="/page/mentions-legales" title="Lire les mentions légales du site web">Mentions légales</a>',
   plugins: {
     blog: true,
     // comment: {
@@ -52,7 +52,7 @@ export default hopeTheme({
       //See https://vuepress-theme-hope.github.io/v2/guide/markdown/container.html
       container: true,
       //See https://vuepress-theme-hope.github.io/v2/guide/markdown/echarts.html
-      echarts: true,
+      // echarts: true,
       //See https://vuepress-theme-hope.github.io/v2/guide/markdown/footnote.html
       //See also https://echarts.apache.org/en/index.html
       footnote: true,
@@ -70,7 +70,7 @@ export default hopeTheme({
       //I'm not sure I need it for now
       //stylize: []
       //See https://vuepress-theme-hope.github.io/v2/guide/markdown/tabs.html
-      tabs: true,
+      // tabs: true,
     },
     pwa: {
       cacheHTML: true,
