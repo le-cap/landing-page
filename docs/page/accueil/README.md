@@ -11,7 +11,7 @@ head:
   - [meta, { rel: canonical, href: https://passonslecap.fr/page/accueil/ }]
 actions:
   - text: 'Votre instructeur'
-    link: 'page/a-propos/'
+    link: '../a-propos/'
     type: secondary
   - text: 'Le C.A.P en détails'
     link: '/'
