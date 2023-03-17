@@ -1,4 +1,4 @@
-const websiteDomain = 'passonslecap.madebyjeremie.fr';
+const websiteDomain = 'passonslecap.fr';
 const titleDefault =
   'Learn, Act, Produce: 3 steps to reduce your energy bills.';
 const descriptionDefault =

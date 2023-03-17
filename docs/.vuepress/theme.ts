@@ -6,10 +6,10 @@ import { /*enNavBarConfig,*/ frNavBarConfig } from './configs/navbar';
 
 export default hopeTheme({
   //path.resolve(__dirname, './theme'),
-  hostname: 'https://passonslecap.madebyjeremie.fr',
+  hostname: 'https://passonslecap.fr',
   author: {
     name: 'Jeremie Litzler',
-    url: 'https://passonslecap.madebyjeremie.fr',
+    url: 'https://passonslecap.fr',
   },
   // repo: 'le-cap/landing-page',
   // docsRepo: 'https://github.com/le-cap/landing-page',

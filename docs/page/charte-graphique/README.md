@@ -5,10 +5,7 @@ date: 2023-03-08
 head:
   - [
       meta,
-      {
-        rel: canonical,
-        href: https://passonslecap.madebyjeremie./page/charte-graphique,
-      },
+      { rel: canonical, href: https://passonslecap./page/charte-graphique },
     ]
 ---
 

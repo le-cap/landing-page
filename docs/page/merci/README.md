@@ -4,13 +4,7 @@ title: '[[thank-you-page-title-fr]]'
 description: '[[thank-you-page-description-fr]]'
 #date:
 head:
-  - [
-      meta,
-      {
-        rel: canonical,
-        href: https://passonslecap.madebyjeremie.fr/page/merci/,
-      },
-    ]
+  - [meta, { rel: canonical, href: https://passonslecap.fr/page/merci/ }]
 article: false
 ---
 

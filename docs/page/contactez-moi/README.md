@@ -6,10 +6,7 @@ description: 'Si vous hésitez à faire le pas ou que vous souhaitez discuter de
 head:
   - [
       meta,
-      {
-        rel: canonical,
-        href: https://passonslecap.madebyjeremie.fr/page/contactez-moi/,
-      },
+      { rel: canonical, href: https://passonslecap.fr/page/contactez-moi/ },
     ]
 article: false
 ---

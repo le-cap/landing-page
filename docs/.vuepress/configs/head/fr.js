@@ -1,6 +1,6 @@
 const localeShort = 'fr';
 const localeFull = 'fr-FR';
-const websiteDomain = 'passonslecap.madebyjeremie.fr';
+const websiteDomain = 'passonslecap.fr';
 const titleDefault = 'Passons le C.A.P';
 const descriptionDefault =
   "Diminuer vos factures d'énergie ne demande pas un gros investissement, contrairement à ce que certaines entreprises vous vendent réellement. Avec un petit investissement progressif et la bonne connaissance du sujet, vous économiserez dès aujourd'hui. Rejoignez-nous dans cette aventure";

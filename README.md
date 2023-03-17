@@ -79,7 +79,7 @@ If you want another language as default, update the `lang` value with a valid lo
 
 ### Update the `docs/.vuepress/theme.ts`
 
-- replace the _passonslecap.madebyjeremie.fr_ with the URL of your site.
+- replace the _passonslecap.fr_ with the URL of your site.
 - set the author.
 - set the proper repository name, url, default branch and directory
 - set the proper locales, depending on what you did in `config.js`

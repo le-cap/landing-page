@@ -3,7 +3,7 @@ title: Terms and Conditions
 description: This is the terms and conditions page
 #date:
 #head:
-#  - [meta, { rel: canonical, href: https://passonslecap.madebyjeremie./page/terms/ }]
+#  - [meta, { rel: canonical, href: https://passonslecap./page/terms/ }]
 article: false
 ---
 
@@ -11,7 +11,7 @@ article: false
 
 <h2><strong>Welcome to [[Website title]]!</strong></h2>
 
-<p>These terms and conditions outline the rules and regulations for the use of [[Website title]]'s Website, located at https://passonslecap.madebyjeremie.fr/.</p>
+<p>These terms and conditions outline the rules and regulations for the use of [[Website title]]'s Website, located at https://passonslecap.fr/.</p>
 
 <p>By accessing this website I assume you accept these terms and conditions. Do not continue to use [[Website title]] if you do not agree to take all of the terms and conditions stated on this page.</p>
 
