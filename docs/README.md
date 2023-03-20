@@ -1,6 +1,6 @@
 ---
 home: true
-containerClass: landing-page no-toc
+containerClass: landing-page no-toc no-narbar-center no-breadcrumb no-page-info no-mobile-menu
 heroFullScreen: true
 heroText: 'En 3 étapes simples'
 heroImage: /icons/android-chrome-512x512.png
