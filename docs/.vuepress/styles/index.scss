@@ -239,14 +239,9 @@ iframe.newsletter-embed html {
   background-color: #efa846;
 }
 
-.landing-page header .navbar-center,
-.breadcrumb,
-.landing-page .breadcrumb,
-.landing-page .page-info {
+.no-narbar-center header .navbar-center,
+.no-breadcrumb .breadcrumb,
+.no-page-info .page-info,
+.no-mobile-menu .toggle-navbar-button .button-container {
   display: none;
-}
-
-.landing-page .toggle-navbar-button .button-container {
-  display: none;
-
 }
