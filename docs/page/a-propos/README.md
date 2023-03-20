@@ -1,5 +1,5 @@
 ---
-containerClass: custom-page
+containerClass: no-breadcrumb no-page-info
 title: 'Votre instructeur'
 description: "Jérémie Litzler est développeur logiciel et leader d'équipe de développement depuis 2009. Il s'intéresse depuis 2014 à son impact sur l'environnement et la réduction de l'utilisation d'énergie."
 #date:
