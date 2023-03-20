@@ -1,5 +1,5 @@
 ---
-containerClass: custom-page
+containerClass: no-breadcrumb no-page-info
 title: Mentions légales
 description: Cette page contient les mentions légales du site
 #date:
