@@ -1,5 +1,5 @@
 ---
-containerClass: no-breadcrumb no-page-info
+containerClass: no-breadcrumb no-page-info no-toc
 title: 'Contactez-moi'
 description: 'Si vous hésitez à faire le pas ou que vous souhaitez discuter de votre besoin, contactez-moi.'
 #date:
