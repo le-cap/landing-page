@@ -1,5 +1,5 @@
 ---
-containerClass: custom-page
+containerClass: no-breadcrumb no-page-info
 title: 'Contactez-moi'
 description: 'Si vous hésitez à faire le pas ou que vous souhaitez discuter de votre besoin, contactez-moi.'
 #date:
