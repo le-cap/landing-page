@@ -15,6 +15,9 @@ actions:
   - text: 'Le C.A.P en détails'
     link: '#comprendre'
     type: secondary
+  - text: 'Votre instructeur'
+    link: 'page/a-propos/'
+    type: secondary
 head:
   - [
       meta,
@@ -32,11 +35,19 @@ article: false
 
 <!-- short description -->
 
-Pour faire des économies d’énergie conséquentes dès aujourd’hui sans se ruiner, je vous invite à suivre les trois étapes suivantes.
+Pour réaliser des économies d’énergie conséquentes dès aujourd’hui sans se ruiner, je vous invite à suivre les trois étapes suivantes.
+
+Avec celle-ci, vous pourrez économiser jusqu'à 40% sur vos factures d'électricité sur une année.
+
+C'est parti !
 
 ## Comprendre
 
-Avant même d’envisager des travaux de rénovation ou d’une installation solaire, aussi bien photovoltaïque ou thermique, il faut _Comprendre_ ce que vous consommez tout le long de l’année. Dans cette étape, nous regardons ensemble comment mesurer la consommation de vos appareils ou comment estimer une consommation si la mesure n’est pas possible. On utilisera un petit appareil nommé Wattmètre ou enregistreur de la consommation d’énergie.
+Avant même d’envisager des travaux de rénovation ou d’une installation solaire, aussi bien photovoltaïque ou thermique, il faut _Comprendre_ ce que vous consommez tout le long de l’année.
+
+Dans cette étape, nous regardons ensemble comment mesurer la consommation de vos appareils ou comment estimer une consommation si la mesure n’est pas possible.
+
+On utilisera, par exemple, un petit appareil nommé _Wattmètre_ ou enregistreur de la consommation d’énergie.
 
 ## Agir
 
@@ -90,4 +101,4 @@ En cadeau de bienvenue, vous recevrez le premier élément pour démarrer le par
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper newsletter-wrapper-slim"><iframe class="newsletter-embed" src="https://passonslecap.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
-[^services-premium]: En tant qu’en autoentrepreneur, je partage gratuitement mes expériences. Je n’utilise pas de publicité et je compte le bouche-à-oreille pour faire connaitre mon activité. Si vous avez un besoin d’accompagnement, je serai ravi de proposer mes services et compétences pour vous aider à travers les 3 étapes du C.A.P. [Contactez-moi directement](page/contactez-moi/README.md) 📝.
+[^services-premium]: en tant qu’en autoentrepreneur, je partage gratuitement mes expériences. Je n’utilise pas de publicité et je compte le bouche-à-oreille pour faire connaitre mon activité. Si vous avez un besoin d’accompagnement, je serai ravi de proposer mes services et compétences pour vous aider à travers les 3 étapes du C.A.P. [Contactez-moi directement](page/contactez-moi/README.md) 📝.

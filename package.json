@@ -1,6 +1,6 @@
 {
   "name": "journal",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "description": "A template for Vuepress site using Mr Hope's theme",
   "main": "index.js",
   "repository": "https://github.com/Puzzlout/TemplateVuepress",
