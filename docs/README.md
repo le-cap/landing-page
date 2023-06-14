@@ -3,7 +3,7 @@ home: true
 containerClass: landing-page no-toc no-narbar-center no-breadcrumb no-page-info no-mobile-menu
 heroFullScreen: true
 heroText: 'En 3 étapes simples'
-heroImage: /icons/android-chrome-512x512.png
+# heroImage: /icons/android-chrome-512x512.png
 tagline: "Réduisez vos factures d'énergie. Dès aujourd'hui !"
 title: "Le C.A.P, c'est quoi concrètement"
 # description: "Le C.A.P, c'est trois étapes progressives pour vous permettre d'économiser sur vos factues d'énergie dès aujourd'hui"
@@ -28,10 +28,6 @@ head:
     ]
 article: false
 ---
-
-<!-- image -->
-
-![Plante dans le creux d’une main](/images/plante-dans-le-creux-d-une-main.jpg)
 
 <!-- short description -->
 
@@ -71,7 +67,7 @@ Avec moins de 600 euros, on peut démarrer la production photovoltaïque et prod
 
 ## Prêt pour la suite ?
 
-Sans obligations d’achats, le bulletin d’informations est gratuit[^services-premium] et vous permettra de suivre les étapes du C.A.P par vous-mêmes.
+Sans obligations d’achats, la lettre d’informations est gratuite[^services-premium] et vous permettra de suivre les étapes du C.A.P par vous-mêmes.
 
 Pour recevoir des astuces une fois par mois, commencez par vous abonner et je vous enverrai cela.
 
@@ -86,7 +82,7 @@ En cadeau de bienvenue, vous recevrez le premier élément pour démarrer le par
 
 ## A quoi ressemble un projet photovoltaïque bien dimensionné
 
-![Vue des champs Sud et Sud-Est](/images/2022-12-31-vue-des-champs-sud-et-sud-est.jpg 'Les champs Sud et Sud-Est en position Printemps-Automne')
+![Vue des champs Sud et Sud-Est](/images/vue-des-champs-sud-et-sud-ouest.jpg 'Les champs Sud et Sud-Est en position Printemps-Automne')
 
 ![Des tableaux électriques et un boitier avec un afficheur digital](/images/2022-12-15-tableau-pv-routeur-solaire-et-tableau-electrique.jpg 'Le routeur solaire de Robin Emley avec son afficheur digital et les 2 tableaux électriques pour la production (au fond) et la consommation (sous le routeur)')
 
