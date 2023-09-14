@@ -3,7 +3,7 @@ home: true
 containerClass: landing-page no-toc no-narbar-center no-breadcrumb no-page-info no-mobile-menu
 heroFullScreen: true
 heroText: 'En 3 étapes simples'
-heroImage: /images/vue-des-champs-sud-et-sud-est-hero.jpg
+heroImage: /icons/android-chrome-192x192.png
 tagline: "Réduisez vos factures d'énergie. Dès aujourd'hui !"
 title: "Le C.A.P, c'est quoi concrètement"
 # description: "Le C.A.P, c'est trois étapes progressives pour vous permettre d'économiser sur vos factues d'énergie dès aujourd'hui"
@@ -109,4 +109,4 @@ En cadeau de bienvenue, vous recevrez le premier élément pour démarrer le par
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper newsletter-wrapper-slim"><iframe class="newsletter-embed" src="https://passonslecap.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
-[^services-premium]: en tant qu’en autoentrepreneur, je partage gratuitement mes expériences. Je n’utilise pas de publicité et je compte le bouche-à-oreille pour faire connaitre mon activité. Si vous avez un besoin d’accompagnement, je serai ravi de proposer mes services et compétences pour vous aider à travers les 3 étapes du C.A.P. [Contactez-moi directement](page/contactez-moi/README.md) 📝.
+[^services-premium]: en tant qu’en autoentrepreneur, je partage gratuitement mes expériences. Je n’utilise pas de publicité et je compte sur le bouche-à-oreille pour faire connaitre mon activité. Si vous avez un besoin d’accompagnement, je serai ravi de proposer mon expérience à travers mes services et mes compétences pour vous aider à travers les 3 étapes du C.A.P. [Contactez-moi directement](page/contactez-moi/README.md) 📝.
