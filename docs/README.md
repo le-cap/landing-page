@@ -20,14 +20,6 @@ actions:
     type: secondary
 head:
   - [
-      meta,
-      {
-        rel: canonical,
-        href: https://passonslecap.substack.com/p/le-cap-cest-quoi-exactement,
-      },
-    ]
-head:
-  - [
       link,
       {
         rel: canonical,
