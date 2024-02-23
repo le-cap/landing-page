@@ -1,29 +1,29 @@
 //https://v2.vuepress.vuejs.org/reference/default-theme/extending.html
 
-import { hopeTheme } from 'vuepress-theme-hope';
+import { hopeTheme } from "vuepress-theme-hope";
 
-import { /*enNavBarConfig,*/ frNavBarConfig } from './configs/navbar';
+import { /*enNavBarConfig,*/ frNavBarConfig } from "./configs/navbar";
 
 export default hopeTheme({
   //path.resolve(__dirname, './theme'),
-  hostname: 'https://passonslecap.fr',
+  hostname: "https://passonslecap.fr",
   author: {
-    name: 'Jeremie Litzler',
-    url: 'https://passonslecap.fr',
+    name: "Jeremie Litzler",
+    url: "https://passonslecap.fr",
   },
   // repo: 'le-cap/landing-page',
   // docsRepo: 'https://github.com/le-cap/landing-page',
   // docsBranch: 'main',
-  docsDir: 'docs',
+  docsDir: "docs",
   // editLinkPattern: ':repo/edit/:branch/:path',
-  logo: '/icons/favicon-32x32.png',
-  logoDark: '/icons/dark-favicon-32x32.png',
+  logo: "/icons/favicon-32x32.png",
+  logoDark: "/icons/dark-favicon-32x32.png",
   locales: {
     // '/en': {
     //   navbar: enNavBarConfig,
     //   sidebar: false,
     // },
-    '/': {
+    "/": {
       navbar: frNavBarConfig,
       sidebar: false,
     },
@@ -42,7 +42,7 @@ export default hopeTheme({
     //   mapping: 'title',
     // },
     mdEnhance: {
-      checkLinks: 'always',
+      // checkLinks: 'always',
       //See https://vuepress-theme-hope.github.io/v2/guide/markdown/align.html
       align: true,
       //See https://vuepress-theme-hope.github.io/v2/guide/markdown/attrs.html
